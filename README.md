@@ -15,7 +15,7 @@ $ ls
 do.sh  hive_empdept.sh  mykey.pem
 ```
 
-##install
+## install
 ```
 git clone http://github.com/
 cd testPrj/
@@ -45,5 +45,5 @@ emp
 Time taken: 0.028 seconds, Fetched: 2 row(s)
 ```
 
-##Copy Right
-2020.1.7 
+## Copy Right
+2020.01 hyanj14@gmail.com
