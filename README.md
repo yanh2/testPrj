@@ -1,8 +1,8 @@
-# testPrj
-## Prerequistic
-### hostname 
-* master is hadoop master
-* example
+# testPrj 너 
+## Prerequistic 맘에 
+### hostname  안들어 
+* master is hadoop master 아
+* example 주
 ```
 sudo -i
 echo "111.111.111.111 (하둡 아이피)master" >> /etc/hosts
